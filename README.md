@@ -4,7 +4,7 @@
 
 ---
 
-## ## 🎯 Problem Statement
+## 🎯 Problem Statement
 
 Young professionals and everyday consumers struggle to invest due to:
 
